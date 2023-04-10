@@ -1,4 +1,4 @@
-<h1> Active-Directory-Lab-using-PowerShell</h1>
+<h1> Powershell component of Active-Directory-Labl</h1>
 
 <h2>Overview</h2>
 <b>This is an Active Directory lab using Virtualization in VirtualBox. This lab informs on how Active Directory works and also general Windows networking. ALso incorporated in this lab is some Powershell script that is responsible for adding 1 thousand new users into the directory. 
