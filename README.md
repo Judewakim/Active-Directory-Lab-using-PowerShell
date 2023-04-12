@@ -20,6 +20,9 @@
 - <b>Windows Server 2019:</b> Windows server .iso installed on virtual machine
 - <b>Windows 10:</b> virtual machine running Windows 10 home
 
+<h2>Resources Used</h2>
+
+- <b>YouTube:</b> https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=1&ab_channel=JoshMadakor-Tech%2CEducation%2CCareer 
 
 <!--
  ```diff
